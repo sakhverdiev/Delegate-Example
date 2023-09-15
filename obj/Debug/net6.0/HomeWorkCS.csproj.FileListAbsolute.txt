@@ -1,0 +1,14 @@
+C:\Users\Senan\source\repos\HomeWorkCS\obj\Debug\net6.0\HomeWorkCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senan\source\repos\HomeWorkCS\obj\Debug\net6.0\HomeWorkCS.AssemblyInfoInputs.cache
+C:\Users\Senan\source\repos\HomeWorkCS\obj\Debug\net6.0\HomeWorkCS.AssemblyInfo.cs
+C:\Users\Senan\source\repos\HomeWorkCS\obj\Debug\net6.0\HomeWorkCS.csproj.CoreCompileInputs.cache
+C:\Users\Senan\source\repos\HomeWorkCS\bin\Debug\net6.0\HomeWorkCS.exe
+C:\Users\Senan\source\repos\HomeWorkCS\bin\Debug\net6.0\HomeWorkCS.deps.json
+C:\Users\Senan\source\repos\HomeWorkCS\bin\Debug\net6.0\HomeWorkCS.runtimeconfig.json
+C:\Users\Senan\source\repos\HomeWorkCS\bin\Debug\net6.0\HomeWorkCS.dll
+C:\Users\Senan\source\repos\HomeWorkCS\bin\Debug\net6.0\HomeWorkCS.pdb
+C:\Users\Senan\source\repos\HomeWorkCS\obj\Debug\net6.0\HomeWorkCS.dll
+C:\Users\Senan\source\repos\HomeWorkCS\obj\Debug\net6.0\refint\HomeWorkCS.dll
+C:\Users\Senan\source\repos\HomeWorkCS\obj\Debug\net6.0\HomeWorkCS.pdb
+C:\Users\Senan\source\repos\HomeWorkCS\obj\Debug\net6.0\HomeWorkCS.genruntimeconfig.cache
+C:\Users\Senan\source\repos\HomeWorkCS\obj\Debug\net6.0\ref\HomeWorkCS.dll
